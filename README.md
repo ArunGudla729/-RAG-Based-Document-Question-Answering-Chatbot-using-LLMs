@@ -1,15 +1,3 @@
-
----
-title: AI Document Q&A (RAG)
-emoji: 📄
-colorFrom: indigo
-colorTo: blue
-sdk: streamlit
-sdk_version: 1.33.0
-app_file: app.py
-pinned: false
----
-
 # 📄 AI-Powered Document Q&A System (RAG)
 
 An end-to-end **Retrieval-Augmented Generation** pipeline that lets you upload
